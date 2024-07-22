@@ -15,7 +15,7 @@
       {
         "id": 2,
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719406952/kovvur-icons/travels.jpg",
-        "title": "Swati's Beauty Care",
+        "title": "Bharath",
         "location": "B",
         "phoneNumber": "9491344745",
         "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
@@ -24,7 +24,7 @@
       {
         "id": 3,
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719309884/kovvur-icons/events.jpg",
-        "title": "B UNIQUE Salon",
+        "title": "Kumar",
         "location": "C",
         "phoneNumber": "9392060678",
         "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
@@ -34,7 +34,7 @@
         "id": 4,
         "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719314719/kovvur-icons/photography.jpg",
         "title": "Jos Beauty Clinic Ac",
-        "location": "D",
+        "location": "Dhanush",
         "phoneNumber": "9392060679",
         "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
         "socialLinks": {}
