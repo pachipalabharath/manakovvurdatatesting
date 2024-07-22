@@ -1,0 +1,53 @@
+{
+    "photographyData": [
+      {
+        "id": 1,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719819342/kovvur-icons/travels-icons/Untitled_design_60__11zon_yhos9v.jpg",
+        "title": "Aarohi Advanced Beauty Clinic & Makeup Studio",
+        "location": "A",
+        "phoneNumber": "9392060676",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {
+          "instagram": "https://www.instagram.com/mana_kovvur_official/",
+          "whatsapp": "https://wa.me/9491344745"
+        }
+      },
+      {
+        "id": 2,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719819342/kovvur-icons/travels-icons/Untitled_design_60__11zon_yhos9v.jpg",
+        "title": "Swati's Beauty Care",
+        "location": "B",
+        "phoneNumber": "9491344745",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      },
+      {
+        "id": 3,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719819342/kovvur-icons/travels-icons/Untitled_design_60__11zon_yhos9v.jpg",
+        "title": "B UNIQUE Salon",
+        "location": "C",
+        "phoneNumber": "9392060678",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      },
+      {
+        "id": 4,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719819342/kovvur-icons/travels-icons/Untitled_design_60__11zon_yhos9v.jpg",
+        "title": "Jos Beauty Clinic Ac",
+        "location": "D",
+        "phoneNumber": "9392060679",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      },
+      {
+        "id": 5,
+        "imgSrc": "https://res.cloudinary.com/dtke9rvb6/image/upload/v1719819342/kovvur-icons/travels-icons/Untitled_design_60__11zon_yhos9v.jpg",
+        "title": "Jos Beauty Clinic Ac",
+        "location": "E",
+        "phoneNumber": "9392060680",
+        "services": ["Threading", "Hands Waxing", "Facial", "Pedicure"],
+        "socialLinks": {}
+      }
+    ]
+  }
+  
